@@ -46,3 +46,4 @@ Projects are listed from newest to oldest.
 ## Media Coverage
 
 - [Czech language]  Digitální Sadařství: Jak nám moderní technologie pomáhají hlídat stromy a předpovídat úrodu; Sadař Vinař; 06-2025
+- [Czech language]  Robot ovocnářem. Vědci ze dvou českých univerzit vyvíjí robotickou platformu pro česání jablek, říjen 2022, https://www.irozhlas.cz/veda-technologie/veda/robot-platforma-cvut-czu-jablka-cesani-sad-vyzkum_2210020720_fos
