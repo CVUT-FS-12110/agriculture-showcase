@@ -49,3 +49,13 @@ Projects are listed from newest to oldest.
 - [Czech language]  Robot ovocnářem. Vědci ze dvou českých univerzit vyvíjí robotickou platformu pro česání jablek, Český rozhlas, říjen 2022, https://www.irozhlas.cz/veda-technologie/veda/robot-platforma-cvut-czu-jablka-cesani-sad-vyzkum_2210020720_fos
 - [Czech language]  - Jablka češe ve dne i v noci a šetrně – čeští vědci vyvíjejí unikátní systém pro sadaře, Český rozhlas, Magazín Experiment
 , září 2022, https://radiozurnal.rozhlas.cz/jablka-cese-ve-dne-i-v-noci-a-setrne-cesti-vedci-vyvijeji-unikatni-system-pro-8833653
+
+## CTU Team
+- Jura Jakub
+- Cejnek Matouš
+- Trnka Pavel
+- Vitoušek Martin
+- Vrána Ota
+- Novák Zdeněk
+- Vrba Jan 
+- 
