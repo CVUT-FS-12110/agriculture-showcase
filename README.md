@@ -38,12 +38,18 @@ Projects are listed from newest to oldest.
   - **End date:** 2025-12-31
   - **Summary:** The project presents a new orchard concept focused on producing high-quality market apples through practical use of sensor technology, targeted interventions, advanced automation, artificial intelligence, and robotics. It addresses the topic comprehensively, from selecting suitable genotypes and varieties of columnar apple trees to designing a new tree support system with future robotic deployment in mind. The goal is to demonstrate fruit-growing approaches with higher efficiency and minimal need for human labor. By developing autonomous systems and orchard monitoring technologies, the project significantly increases the efficiency of interventions at the level of individual trees.
 
+## Environmental Projects
+
+
 ## Publications
 
 - Vitousek M, Vrba J, Cejnek M, Jura J and Schankova K (2026) Dual-view weakly-supervised learning for apple tree flower counting. Front. Plant Sci. 17:1869941. https://doi.org/10.3389/fpls.2026.1869941
 - Vitoušek, M., Cejnek, M., Vrba, J., Jura, J. and Plecitá, L. (2026). Image-Based Prediction of Apple Harvest Timing.  In Proceedings of the 7th International Conference on Deep Learning Theory and Applications, ISBN Not Available, ISSN 2184-9277, pages 334-352.   
 - Cejnek, M., Vrba, J., Jura, J., Trnka, P., & Zeleny, L. (2024). Comparative analysis of popular CNN-based deep learning models for tree trunk detection in orchards. *Neural Network World*, (5). https://www.nnw.cz/doi/2024/NNW.2024.34.014.pdf
 - Jura, J., Trnka, P., & Cejnek, M. (2022, May). Using NLP to analyze requirements for Agriculture 4.0 applications. In *2022 23rd International Carpathian Control Conference (ICCC)* (pp. 239-243). IEEE. https://doi.org/10.1109/ICCC54292.2022.9805905
+
+
+
 
 ## Media Coverage
 
