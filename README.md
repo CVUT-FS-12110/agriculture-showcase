@@ -4,7 +4,7 @@ Showcase of agriculture projects and results from the Department of Instrumentat
 
 https://control.fs.cvut.cz/en/
 
-## Partners
+## Our partners
 
 - Czech University of Life Sciences Prague: https://www.czu.cz/en
 - Research and Breeding Institute of Pomology Holovousy Ltd.: https://www.vsuo.cz/cs/
