@@ -59,11 +59,11 @@ Projects are listed from newest to oldest.
 , září 2022, https://radiozurnal.rozhlas.cz/jablka-cese-ve-dne-i-v-noci-a-setrne-cesti-vedci-vyvijeji-unikatni-system-pro-8833653
 
 ## CTU Team
-- Jura Jakub (2024-now)
-- Cejnek Matouš (2024-now)
-- Trnka Pavel (2024-now)
-- Vitoušek Martin  (2025-now)
-- Vrána Ota (2026-now)
-- Novák Zdeněk (2026-now)
-- Vrba Jan  (2025-now)
-- Kateřina Kobrlová
+- Jura Jakub, jakub.jura@fs.cvut.cz (2024-now)
+- Cejnek Matouš matous.cejnek@fs.cvut.cz (2024-now)
+- Trnka Pavel pavel.trnka@fs.cvut.cz (2024-now)
+- Vitoušek Martin martin.vitousek@fs.cvut.cz (2025-now)
+- Vrána Ota oto.vrana@fs.cvut.cz(2026-now)
+- Novák Zdeněk z.novak@fs.cvut.cz (2026-now)
+- Vrba Jan Jan.Vrba@vscht.cz (2025-now)
+- Kateřina Kobrlová katerina.kobrlova@fs.cvut.cz
