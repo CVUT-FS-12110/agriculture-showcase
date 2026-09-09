@@ -39,7 +39,21 @@ Projects are listed from newest to oldest.
   - **Summary:** The project presents a new orchard concept focused on producing high-quality market apples through practical use of sensor technology, targeted interventions, advanced automation, artificial intelligence, and robotics. It addresses the topic comprehensively, from selecting suitable genotypes and varieties of columnar apple trees to designing a new tree support system with future robotic deployment in mind. The goal is to demonstrate fruit-growing approaches with higher efficiency and minimal need for human labor. By developing autonomous systems and orchard monitoring technologies, the project significantly increases the efficiency of interventions at the level of individual trees.
 
 ## Environmental Projects
+- **Vegetation Cooling Effect / Concept Prague**
+  - **CEP code:** CZ.07.1.02/0.0/0.0/16_023/0000113/DP07
+  - **Start date:** 2017
+  - **End date:** 2018
+  - **Summary:**
 
+- **TOKENELEK Vývoj metody stanovení toku energie a látek ve vybraných ekosystémech, návrh a overení principu hodnocení hospodárských zásahu pro zajištení podmínek autoregulace a rozvoje biodiverzity**
+  - **CEP code:** MŠMT B06023
+  - **Start date:** 2007
+  - **End date:** 2011
+  - **Summary:** 
+### Related publications
+- Radović, J., Belda, M., Bureš, M., Eben, K., Geletič, J., Jura, J., Krč, P., Řezníček, H., and Resler, J.: Evaluating the radiative fidelity of WRF-driven PALM (v25.04) in high-resolution using RTM: impact of diverse urban morphology and vegetation on short-wave radiation, Geosci. Model Dev., 19, 6001–6026, https://doi.org/10.5194/gmd-19-6001-2026, 2026. 
+- Bila, J., Bukovský, I., Jura, J., Pokorný, J.: Qualitative Modeling and Monitoring of Selected Ecosystem Functions In Ecological Modelling. 2011, 19, 222, s. 3640– 3650. ISSN 0304-3800, UT ISI 000297089500018.
+- Bila, J., Jura, J., Bukovský, I.: Qualitative Modeling in the Landscape Development Monitoring In Recent Researches in System Science. Athens: WSEAS Press, 2011, vol. 1, p. 35-41. ISBN 978-1-61804-023-7.
 
 ## Publications
 
@@ -59,11 +73,11 @@ Projects are listed from newest to oldest.
 , září 2022, https://radiozurnal.rozhlas.cz/jablka-cese-ve-dne-i-v-noci-a-setrne-cesti-vedci-vyvijeji-unikatni-system-pro-8833653
 
 ## CTU Team
-- Jura Jakub, jakub.jura@fs.cvut.cz (2024-now)
-- Cejnek Matouš matous.cejnek@fs.cvut.cz (2024-now)
-- Trnka Pavel pavel.trnka@fs.cvut.cz (2024-now)
-- Vitoušek Martin martin.vitousek@fs.cvut.cz (2025-now)
+- Jura Jakub, Head of the research group, jakub.jura@fs.cvut.cz (2024-now)
+- Cejnek Matouš matous.cejnek@fs.cvut.cz (2021-now)
+- Trnka Pavel pavel.trnka@fs.cvut.cz (2021-now)
+- Vitoušek Martin martin.vitousek@fs.cvut.cz (2024-now)
 - Vrána Ota oto.vrana@fs.cvut.cz(2026-now)
 - Novák Zdeněk z.novak@fs.cvut.cz (2026-now)
-- Vrba Jan Jan.Vrba@vscht.cz (2025-now)
-- Kateřina Kobrlová katerina.kobrlova@fs.cvut.cz
+- Vrba Jan Jan.Vrba@vscht.cz (2023-now)
+- Kateřina Kobrlová katerina.kobrlova@fs.cvut.cz (2026-now)
