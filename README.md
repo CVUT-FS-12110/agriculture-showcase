@@ -1,4 +1,4 @@
-# Agriculture Projects and Results
+# Agriculture lab - Projects and Results
 
 Showcase of agriculture projects and results from the Department of Instrumentation and Control Engineering, Faculty of Mechanical Engineering, Czech Technical University in Prague.
 
