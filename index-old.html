@@ -294,26 +294,6 @@
         font-weight: 800;
       }
 
-      .partner-card p {
-        margin: 0.75rem 0;
-        color: var(--muted);
-        font-size: 0.92rem;
-      }
-
-      .subsection-title {
-        margin: 3rem 0 1.25rem;
-        color: #fff;
-        font-size: clamp(1.5rem, 3vw, 2.2rem);
-      }
-
-      .team-contact {
-        overflow-wrap: anywhere;
-        color: var(--leaf-700);
-        font-size: 0.86rem;
-        font-weight: 800;
-        text-underline-offset: 0.18em;
-      }
-
       .projects-grid {
         display: grid;
         grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -387,10 +367,6 @@
       .publication,
       .media-card {
         padding: 1.25rem;
-      }
-
-      .media-card + .media-card {
-        margin-top: 1rem;
       }
 
       .publication a,
@@ -523,11 +499,9 @@
         <div class="brand">Department of Instrumentation and Control Engineering</div>
         <div class="nav-links">
           <a href="#projects">Projects</a>
-          <a href="#environment">Environment</a>
           <a href="#partners">Partners</a>
           <a href="#publications">Publications</a>
           <a href="#media">Media</a>
-          <a href="#team">Team</a>
         </div>
       </nav>
       <div class="hero-content">
@@ -577,17 +551,14 @@
         <div class="partners">
           <a class="partner-card" href="https://www.czu.cz/en">
             <h3>Czech University of Life Sciences Prague</h3>
-            <p>Faculty of Engineering · Department of Agricultural Machines · Department of Mathematics and Physics</p>
             <span>czu.cz</span>
           </a>
           <a class="partner-card" href="https://www.vsuo.cz/cs/">
             <h3>Research and Breeding Institute of Pomology Holovousy Ltd.</h3>
-            <p>Department of Fruit Crop Protection · Department of Genetics and Breeding</p>
             <span>vsuo.cz</span>
           </a>
           <a class="partner-card" href="https://agroscan.cz/">
-            <h3>AgroScan, s.r.o.</h3>
-            <p>Field Diagnostics</p>
+            <h3>Agroscan</h3>
             <span>agroscan.cz</span>
           </a>
         </div>
@@ -612,12 +583,10 @@
               <span>2026-01-01 to 2030-12-31</span>
             </div>
             <p>
-              The project aims to expand the use of advanced computer vision and data analytics in
-              precision agriculture. It focuses on a local modular system for accurately monitoring
-              harmful organisms in orchards and planning plant protection product applications.
-              Agroscan's existing recommendation system will be extended with a new generation of
-              traps using advanced computer vision for automatic real-time pest detection, alongside
-              leaf-damage evaluation from imagery captured by mobile monitoring platforms.
+              A local modular system for accurate monitoring of harmful organisms in orchards.
+              The project extends plant-protection recommendation systems with new traps using
+              advanced computer vision for automatic real-time pest detection and evaluates leaf
+              damage from mobile monitoring imagery.
             </p>
           </article>
 
@@ -628,12 +597,10 @@
               <span>2026-01-01 to 2030-12-31</span>
             </div>
             <p>
-              The project develops mechanization, robotization, and automation in apple growing for
-              a new orchard concept based on columnar varieties and multi-axis tree forms. It covers
-              robotic pruning, gentle removal of detached fruit, agrotechnology for fully fruiting
-              robotic orchards, fruit-set regulation, handling and storage of mechanically harvested
-              fruit, completion of a digital twin, 3D tree models for planning and monitoring, and
-              an application for a new columnar apple variety. It follows project QK21010170.
+              Development of mechanization, robotization, and automation for apple growing using
+              columnar varieties and multi-axis tree forms. Work includes robotic pruning,
+              fruit handling, agrotechnology, a digital twin, 3D tree models, and support for a
+              new columnar apple variety.
             </p>
           </article>
 
@@ -644,11 +611,10 @@
               <span>2024-01-01 to 2028-12-31</span>
             </div>
             <p>
-              The project prepares nurseries and orchards for semi-autonomous and autonomous
-              systems by adapting operations, growing areas, and support systems. Its goal is the
-              efficient, long-term, and economically sustainable use of robots, with locally
-              targeted applications, innovative agrotechnical interventions, less traffic and fuel
-              consumption, and reduced manual work.
+              Preparation of nurseries and orchards for semi-autonomous and autonomous systems.
+              The project adapts operations, growing areas, and support systems to enable
+              efficient long-term robotic deployment with lower fuel use, reduced manual work,
+              and more targeted applications.
             </p>
           </article>
 
@@ -659,63 +625,11 @@
               <span>2021-01-01 to 2025-12-31</span>
             </div>
             <p>
-              A new orchard concept for high-quality market apples based on sensors, targeted
-              interventions, advanced automation, artificial intelligence, and robotics. It spans
-              the selection of columnar apple genotypes and varieties, a support system designed
-              for future robots, autonomous systems, and orchard monitoring technologies, aiming
-              for greater efficiency at individual-tree level with minimal human labor.
+              A comprehensive orchard concept for high-quality market apples using sensor
+              technology, targeted interventions, automation, artificial intelligence, and
+              robotics. The project covers varieties, support systems, monitoring, and
+              intervention efficiency at the level of individual trees.
             </p>
-          </article>
-        </div>
-      </section>
-
-      <section id="environment" class="dark-section" aria-labelledby="environment-title">
-        <div class="section-head">
-          <div>
-            <p class="kicker">Environment and climate</p>
-            <h2 id="environment-title">Environmental Projects</h2>
-          </div>
-          <p>Research into urban vegetation, sustainable ecosystem management, and biodiversity conservation.</p>
-        </div>
-        <div class="projects-grid">
-          <article class="project-card">
-            <h3>Vegetation Cooling Effect / Concept Prague</h3>
-            <div class="project-meta">
-              <span>CEP CZ.07.1.02/0.0/0.0/16_023/0000113/DP07</span>
-              <span>2017 to 2018</span>
-            </div>
-            <p>
-              The project investigated the cooling effect of urban vegetation and its role in
-              mitigating urban heat islands and excessive city temperatures. Meteorological
-              measurements and the KlimaVeg knowledge-based modelling system were used to assess
-              how vegetation type and density influence urban thermal conditions.
-            </p>
-          </article>
-          <article class="project-card">
-            <h3>TOKENELEK – Development of a Method for Determining Energy and Matter Flows in Selected Ecosystems, and Design and Verification of a Principle for Assessing Management Interventions to Ensure Conditions for Self-Regulation and Biodiversity Development</h3>
-            <div class="project-meta">
-              <span>CEP MŠMT B06023</span>
-              <span>2007 to 2011</span>
-            </div>
-            <p>
-              The project developed methods for quantifying energy and matter flows in selected
-              ecosystems and assessing the effects of management interventions. Its aim was to
-              support ecosystem self-regulation, sustainable management, and biodiversity conservation.
-            </p>
-          </article>
-        </div>
-
-        <h3 class="subsection-title">Related publications</h3>
-        <div class="publication-list">
-          <article class="publication">
-            <p>Radović, J., Belda, M., Bureš, M., Eben, K., Geletič, J., Jura, J., Krč, P., Řezníček, H., &amp; Resler, J. (2026). Evaluating the radiative fidelity of WRF-driven PALM (v25.04) in high resolution using RTM: impact of diverse urban morphology and vegetation on short-wave radiation. <em>Geoscientific Model Development</em>, 19, 6001–6026.</p>
-            <p><a href="https://doi.org/10.5194/gmd-19-6001-2026">View DOI</a></p>
-          </article>
-          <article class="publication">
-            <p>Bila, J., Bukovský, I., Jura, J., &amp; Pokorný, J. (2011). Qualitative Modeling and Monitoring of Selected Ecosystem Functions. <em>Ecological Modelling</em>, 222, 3640–3650. ISSN 0304-3800.</p>
-          </article>
-          <article class="publication">
-            <p>Bila, J., Jura, J., &amp; Bukovský, I. (2011). Qualitative Modeling in the Landscape Development Monitoring. In <em>Recent Researches in System Science</em>, vol. 1, pp. 35–41. WSEAS Press. ISBN 978-1-61804-023-7.</p>
           </article>
         </div>
       </section>
@@ -793,81 +707,6 @@
             </p>
           </div>
         </article>
-        <article class="media-card">
-          <img src="assets/IMG-20230509-WA0003.jpg" alt="Flowering rows in a modern orchard.">
-          <div>
-            <h3>Robot ovocnářem</h3>
-            <p>
-              Czech language coverage: Vědci ze dvou českých univerzit vyvíjí robotickou platformu
-              pro česání jablek; <em>Český rozhlas</em>; October 2022.
-            </p>
-            <p><a href="https://www.irozhlas.cz/veda-technologie/veda/robot-platforma-cvut-czu-jablka-cesani-sad-vyzkum_2210020720_fos">Read the article</a></p>
-          </div>
-        </article>
-        <article class="media-card">
-          <img src="assets/splats_image.png" alt="Digital 3D visualization of an orchard.">
-          <div>
-            <h3>Jablka češe ve dne i v noci a šetrně</h3>
-            <p>
-              Czech language coverage of a unique apple-harvesting system developed by Czech
-              researchers; <em>Český rozhlas, Magazín Experiment</em>; September 2022.
-            </p>
-            <p><a href="https://radiozurnal.rozhlas.cz/jablka-cese-ve-dne-i-v-noci-a-setrne-cesti-vedci-vyvijeji-unikatni-system-pro-8833653">Read the article</a></p>
-          </div>
-        </article>
-      </section>
-
-      <section id="team" class="dark-section" aria-labelledby="team-title">
-        <div class="section-head">
-          <div>
-            <p class="kicker">People</p>
-            <h2 id="team-title">CTU Team</h2>
-          </div>
-          <p>The researchers contributing to the department's agriculture projects.</p>
-        </div>
-        <div class="partners">
-          <article class="partner-card">
-            <h3>Jakub Jura</h3>
-            <p>Head of the research group</p>
-            <a class="team-contact" href="mailto:jakub.jura@fs.cvut.cz">jakub.jura@fs.cvut.cz</a>
-            <span>2024–now</span>
-          </article>
-          <article class="partner-card">
-            <h3>Matouš Cejnek</h3>
-            <a class="team-contact" href="mailto:matous.cejnek@fs.cvut.cz">matous.cejnek@fs.cvut.cz</a>
-            <span>2021–now</span>
-          </article>
-          <article class="partner-card">
-            <h3>Pavel Trnka</h3>
-            <a class="team-contact" href="mailto:pavel.trnka@fs.cvut.cz">pavel.trnka@fs.cvut.cz</a>
-            <span>2021–now</span>
-          </article>
-          <article class="partner-card">
-            <h3>Martin Vitoušek</h3>
-            <a class="team-contact" href="mailto:martin.vitousek@fs.cvut.cz">martin.vitousek@fs.cvut.cz</a>
-            <span>2024–now</span>
-          </article>
-          <article class="partner-card">
-            <h3>Ota Vrána</h3>
-            <a class="team-contact" href="mailto:oto.vrana@fs.cvut.cz">oto.vrana@fs.cvut.cz</a>
-            <span>2026–now</span>
-          </article>
-          <article class="partner-card">
-            <h3>Zdeněk Novák</h3>
-            <a class="team-contact" href="mailto:z.novak@fs.cvut.cz">z.novak@fs.cvut.cz</a>
-            <span>2026–now</span>
-          </article>
-          <article class="partner-card">
-            <h3>Jan Vrba</h3>
-            <a class="team-contact" href="mailto:Jan.Vrba@vscht.cz">Jan.Vrba@vscht.cz</a>
-            <span>2023–now</span>
-          </article>
-          <article class="partner-card">
-            <h3>Kateřina Kobrlová</h3>
-            <a class="team-contact" href="mailto:katerina.kobrlova@fs.cvut.cz">katerina.kobrlova@fs.cvut.cz</a>
-            <span>2026–now</span>
-          </article>
-        </div>
       </section>
     </main>
 
