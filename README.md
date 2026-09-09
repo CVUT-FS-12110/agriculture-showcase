@@ -45,7 +45,7 @@ Projects are listed from newest to oldest.
   - **End date:** 2018
   - **Summary:**
 
-- **TOKENELEK Vývoj metody stanovení toku energie a látek ve vybraných ekosystémech, návrh a overení principu hodnocení hospodárských zásahu pro zajištení podmínek autoregulace a rozvoje biodiverzity**
+- **TOKENELEK – Development of a Method for Determining Energy and Matter Flows in Selected Ecosystems, and Design and Verification of a Principle for Assessing Management Interventions to Ensure Conditions for Self-Regulation and Biodiversity Development**
   - **CEP code:** MŠMT B06023
   - **Start date:** 2007
   - **End date:** 2011
