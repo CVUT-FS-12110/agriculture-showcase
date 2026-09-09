@@ -60,3 +60,4 @@ Projects are listed from newest to oldest.
 - Vrána Ota (2026-now)
 - Novák Zdeněk (2026-now)
 - Vrba Jan  (2025-now)
+- Kateřina Kobrlová
