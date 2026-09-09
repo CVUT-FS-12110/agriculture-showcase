@@ -6,9 +6,9 @@ https://control.fs.cvut.cz/en/
 
 ## Our partners
 
-- Czech University of Life Sciences Prague: https://www.czu.cz/en
-- Research and Breeding Institute of Pomology Holovousy Ltd.: https://www.vsuo.cz/cs/
-- Agroscan: https://agroscan.cz/
+- Czech University of Life Sciences Prague, Faculty of Engineering, Department of Agricultural Machines & Department of Mathematics and Physics: https://www.czu.cz/en
+- Research and Breeding Institute of Pomology Holovousy Ltd., Plant Protection Department & Department of Genetics and Breeding: https://www.vsuo.cz/cs/
+- AgroScan, s.r.o., Field Diagnostisc : https://agroscan.cz/
 
 ## Projects
 
@@ -18,7 +18,7 @@ Projects are listed from newest to oldest.
   - **CEP code:** QL26010200
   - **Start date:** 2026-01-01
   - **End date:** 2030-12-31
-  - **Summary:** The project aims to expand the use of advanced computer vision and data analytics in precision agriculture. It focuses on developing a local modular system for accurate monitoring of harmful organisms in orchards, with an emphasis on planning plant protection product applications. The industrial partner, Agroscan, already operates an information system that recommends plant protection measures based on pest trap data, leaf damage, and meteorological data. The project will extend this system with a new generation of traps equipped with advanced computer vision for accurate automatic real-time pest detection in fruit plantations. Another objective is to evaluate leaf damage using imagery from mobile monitoring platforms.
+  - **Summary:** The project aims to expand the use of advanced computer vision and data analytics in precision agriculture. It focuses on developing a local modular system for accurate monitoring of harmful organisms in orchards, with an emphasis on planning plant protection product applications. The industrial partner, AgroScan, already operates an information system that recommends plant protection measures based on pest trap data, leaf damage, and meteorological data. The project will extend this system with a new generation of traps equipped with advanced computer vision for accurate automatic real-time pest detection in fruit plantations. Another objective is to evaluate leaf damage using imagery from mobile monitoring platforms.
 
 - **Research and Development of Robotic Pruning and a Precision Agrotechnology System for a New Concept of Fully Fruiting Orchards**
   - **CEP code:** QL26010022
@@ -43,17 +43,19 @@ Projects are listed from newest to oldest.
   - **CEP code:** CZ.07.1.02/0.0/0.0/16_023/0000113/DP07
   - **Start date:** 2017
   - **End date:** 2018
-  - **Summary:**
+  - **Summary:** The project investigated the cooling effect of urban vegetation and its role in mitigating the urban heat island (UHI) effect and excessive temperatures in cities. It combined meteorological measurements with the development of the KlimaVeg knowledge-based modelling system to assess and predict how vegetation type and density influence urban thermal conditions.
 
 - **TOKENELEK – Development of a Method for Determining Energy and Matter Flows in Selected Ecosystems, and Design and Verification of a Principle for Assessing Management Interventions to Ensure Conditions for Self-Regulation and Biodiversity Development**
   - **CEP code:** MŠMT B06023
   - **Start date:** 2007
   - **End date:** 2011
-  - **Summary:** 
-### Related publications
+  - **Summary:** The project focused on developing methods for quantifying energy and matter flows in selected ecosystems and assessing the effects of management interventions on ecosystem functioning. The aim was to support ecosystem self-regulation, sustainable management, and biodiversity conservation.
+
+### Publications related to environmental Projects
 - Radović, J., Belda, M., Bureš, M., Eben, K., Geletič, J., Jura, J., Krč, P., Řezníček, H., and Resler, J.: Evaluating the radiative fidelity of WRF-driven PALM (v25.04) in high-resolution using RTM: impact of diverse urban morphology and vegetation on short-wave radiation, Geosci. Model Dev., 19, 6001–6026, https://doi.org/10.5194/gmd-19-6001-2026, 2026. 
 - Bila, J., Bukovský, I., Jura, J., Pokorný, J.: Qualitative Modeling and Monitoring of Selected Ecosystem Functions In Ecological Modelling. 2011, 19, 222, s. 3640– 3650. ISSN 0304-3800, UT ISI 000297089500018.
 - Bila, J., Jura, J., Bukovský, I.: Qualitative Modeling in the Landscape Development Monitoring In Recent Researches in System Science. Athens: WSEAS Press, 2011, vol. 1, p. 35-41. ISBN 978-1-61804-023-7.
+
 
 ## Publications
 
