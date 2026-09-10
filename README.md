@@ -75,7 +75,7 @@ Projects are listed from newest to oldest.
 , září 2022, https://radiozurnal.rozhlas.cz/jablka-cese-ve-dne-i-v-noci-a-setrne-cesti-vedci-vyvijeji-unikatni-system-pro-8833653
 
 ## CTU Team
-- Jura Jakub, Head of the research group, jakub.jura@fs.cvut.cz (2024-now)
+- Jura Jakub, Head of the research group, jakub.jura@fs.cvut.cz (2021-now)
 - Cejnek Matouš matous.cejnek@fs.cvut.cz (2021-now)
 - Trnka Pavel pavel.trnka@fs.cvut.cz (2021-now)
 - Vitoušek Martin martin.vitousek@fs.cvut.cz (2024-now)
